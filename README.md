@@ -1,2 +1,3 @@
 # prince-charles-university
-University project in South London that accepts admission from home and international students 
+University website in South London that accepts admission from home and international students.
+Personal portfolio project only
